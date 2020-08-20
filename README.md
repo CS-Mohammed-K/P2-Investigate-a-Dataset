@@ -5,7 +5,7 @@
 This project is one of the required projects in the Udacity Data Analyst Degree. The goals of this project were:
 - Going through all the steps in a typical Data Analysis process.
 - Posing questions about the Dataset and answering them by analyzing the Dataset.
-- Investigating problems in a dataset and wrangling the data into a usable foramt.
+- Investigating problems in a dataset and wrangling the data into a usable format.
 - Communicating the results of the data analysis.
 - Speeding up data analysis code using python libraries.
 
