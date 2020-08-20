@@ -18,5 +18,5 @@ This project is one of the required projects in the Udacity Data Analyst Degree.
 
 ## Files Description:
   - **Dataset/tmdb-movies.csv** : The Dataset that is used in this project.
-  - **Investigate_a_Dataset.py** : Jupyter Notebook, includes all the code for the project, the data wrangling process, the question that need to be answered, and data visualization.
+  - **Investigate_a_Dataset.py** : Jupyter Notebook, includes all the code for the project, the data wrangling process, the questions that need to be answered, and data visualization.
   - **Investigate_a_Dataset.html**: An HTML version of the notebook, for an easy way to observe the Jupyter Notebook.
